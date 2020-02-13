@@ -16,4 +16,4 @@ Using npm command done API Backend
 
 json-server dbshipment.json --port 3004
 
-Features Done 1.Screen Responsive 2.Code Splitting 3.Webpack configuration with babel loader
+Features Done 1.Screen Responsive 2.Code Splitting 3.Webpack configuration with babel loader 4.Cross browser Technique
