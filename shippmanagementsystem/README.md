@@ -2,7 +2,7 @@ Shippment Management System
 
 Completed all the scenarios what you expected
 
-1.Shippemnt Listing Page
+1.Shippment Listing Page
 2.Shippment View Detail Page
 3.Shippment Name Update Page
 4.Register / Login Page
